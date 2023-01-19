@@ -1,4 +1,4 @@
-'''
+
 a = int(input(""))
 b = int(input(""))
 c = int(input(""))
@@ -826,4 +826,4 @@ if diingkan:
     print("Tuan Leo berkesempatan mendapatkan kategori yang diinginkan.")
 else:
     print("Tuan Leo tidak akan mendapatkan kategori yang diinginkan.")
-'''
+
